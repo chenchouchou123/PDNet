@@ -11,17 +11,17 @@ PDNet: Physics-Decoupling Network for mmWave 3D Human Pose Estimation
 
 
 
-### Texting & Normal
-<img width="900" height="300" alt="20220614100950-2-texting-PoseVideo-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/0950ea69-4419-4b28-829c-7b14b1073578" />
 
-<img width="900" height="300" alt="20220729134757-5-normal-PoseVideo-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/4f0dadc6-f9b8-488c-943a-751809cf0616" />
-
-### Pockets & Phone_Call
-<img width="900" height="300" alt="20220614103946-2-pockets-PoseVideo-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/3a8d01da-222f-4df7-8588-a7099f070d32" />
-
-<img width="900" height="300" alt="20220614102503-2-phone_call-PoseVideo-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/c2af66c5-58c9-4c6e-81aa-57bc09bb1a5a" />
-
-
+<table>
+  <tr>
+    <td align="center"><b>Texting</b><br><img src="https://github.com/user-attachments/assets/0950ea69-4419-4b28-829c-7b14b1073578" width="100%" /></td>
+    <td align="center"><b>Normal</b><br><img src="https://github.com/user-attachments/assets/4f0dadc6-f9b8-488c-943a-751809cf0616" width="100%" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Pockets</b><br><img src="https://github.com/user-attachments/assets/3a8d01da-222f-4df7-8588-a7099f070d32" width="100%" /></td>
+    <td align="center"><b>Phone_Call</b><br><img src="https://github.com/user-attachments/assets/c2af66c5-58c9-4c6e-81aa-57bc09bb1a5a" width="100%" /></td>
+  </tr>
+</table>
 
 ## Abstract
 
