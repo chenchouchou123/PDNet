@@ -6,20 +6,11 @@ PDNet: Physics-Decoupling Network for mmWave 3D Human Pose Estimation
 ## Gallery
 
 
-
-https://github.com/user-attachments/assets/8af3c076-fc90-42ba-bdd6-f1b55f861b2c
-
-
-
-https://github.com/user-attachments/assets/929c35e4-8b60-41df-982c-34d80aa71180
-
-
-
-https://github.com/user-attachments/assets/dc810403-19c8-4549-9e7e-2cf22dc1e821
-
-
-https://github.com/user-attachments/assets/ac36429b-4813-4370-8eae-18a73118899f
-
+| texting | phone_call |
+| :---: | :---: |
+| <video src="https://github.com/user-attachments/assets/8af3c076-fc90-42ba-bdd6-f1b55f861b2c" width="350px"></video> | <video src="https://github.com/user-attachments/assets/929c35e4-8b60-41df-982c-34d80aa71180" width="350px"></video> |
+| pockets | normal |
+| <video src="https://github.com/user-attachments/assets/dc810403-19c8-4549-9e7e-2cf22dc1e821" width="350px"></video> | <video src="https://github.com/user-attachments/assets/ac36429b-4813-4370-8eae-18a73118899f" width="350px"></video> |
 
 
 ## Abstract
@@ -30,25 +21,35 @@ Millimeter-wave (mmWave) radar has emerged as a highly promising, privacy-preser
 
 ### Framework
 
-[Figure_3.pdf](https://github.com/user-attachments/files/31036859/Figure_3.pdf)
+![Framework Description]<img width="1454" height="1267" alt="Figure_3" src="https://github.com/user-attachments/assets/96c9e16d-718e-42be-a6f5-f4c13a55fa84" />
+
 
 
 ## Code
 Environment:
+
 Python: 3.10.8
+
 Pytorch: 1.13.1
+
 CUDA: 11.6
+
 CuDNN: 8
+
 Environment can directly be imported through:[MVDoppler-pose](https://github.com/gogoho88/MVDoppler-Pose).
 
 
 Training:
+
 Edit the corresponding path and variables in the 'conf' folder.
+
 PDNet training:
+
 ```
 docker run --gpus all --shm-size=60g -d -v /your path -p 8080:8080 --name mmwave gogoho88/stanford_mmwave:v3 python /workspace/main_train.py
 ```
 PDNet testing:
+
 ```
 docker run --gpus all --shm-size=60g -d -v /your path -p 8080:8080 --name mmwave gogoho88/stanford_mmwave:v3 python /workspace/main_inference.py
 ```
