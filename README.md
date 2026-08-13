@@ -12,9 +12,9 @@ PDNet: Physics-Decoupling Network for mmWave 3D Human Pose Estimation
 
 
 ### Texting & Normal
-<img width="1200" height="400" alt="20220614100950-2-texting-PoseVideo-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/0950ea69-4419-4b28-829c-7b14b1073578" />
+<img width="900" height="300" alt="20220614100950-2-texting-PoseVideo-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/0950ea69-4419-4b28-829c-7b14b1073578" />
 
-<img width="1200" height="400" alt="20220729134757-5-normal-PoseVideo-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/4f0dadc6-f9b8-488c-943a-751809cf0616" />
+<img width="900" height="300" alt="20220729134757-5-normal-PoseVideo-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/4f0dadc6-f9b8-488c-943a-751809cf0616" />
 
 ### Pockets & Phone_Call
 <img width="1200" height="400" alt="20220614103946-2-pockets-PoseVideo-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/3a8d01da-222f-4df7-8588-a7099f070d32" />
