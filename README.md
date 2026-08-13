@@ -6,12 +6,24 @@ PDNet: Physics-Decoupling Network for mmWave 3D Human Pose Estimation
 ## Gallery
 
 
-| texting | phone_call |
-| :---: | :---: |
-| <video src="https://github.com/user-attachments/assets/8af3c076-fc90-42ba-bdd6-f1b55f861b2c" width="350px"></video> | <video src="https://github.com/user-attachments/assets/929c35e4-8b60-41df-982c-34d80aa71180" width="350px"></video> |
-| pockets | normal |
-| <video src="https://github.com/user-attachments/assets/dc810403-19c8-4549-9e7e-2cf22dc1e821" width="350px"></video> | <video src="https://github.com/user-attachments/assets/ac36429b-4813-4370-8eae-18a73118899f" width="350px"></video> |
-
+<table align="center">
+  <tr>
+    <td align="center">texting<br>
+      <video src="https://github.com/user-attachments/assets/8af3c076-fc90-42ba-bdd6-f1b55f861b2c" controls muted width="100%"></video>
+    </td>
+    <td align="center">normal<br>
+      <video src="https://github.com/user-attachments/assets/929c35e4-8b60-41df-982c-34d80aa71180" controls muted width="100%"></video>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">pockets<br>
+      <video src="https://github.com/user-attachments/assets/dc810403-19c8-4549-9e7e-2cf22dc1e821" controls muted width="100%"></video>
+    </td>
+    <td align="center">phone_call<br>
+      <video src="https://github.com/user-attachments/assets/ac36429b-4813-4370-8eae-18a73118899f" controls muted width="100%"></video>
+    </td>
+  </tr>
+</table>
 
 ## Abstract
 
