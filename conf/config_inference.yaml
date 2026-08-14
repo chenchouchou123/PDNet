@@ -1,0 +1,4 @@
+path_model: 'checkpoints/20260622-0944/best.pt'
+path_args: 'outputs/2026-06-22/09-44-37/.hydra/config.yaml'
+path_save: 'workspace'
+test_episode: '20220614102503'
